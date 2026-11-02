@@ -1,0 +1,7 @@
+Nombre: 
+Marca: 
+Equipo: 
+Liga: 
+Precio:
+Tallas: 
+Descripcion: 
