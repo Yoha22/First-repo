@@ -1,0 +1,23 @@
+- Crear una carpeta ImaN donde guarde toda la información de las imágenes.
+- Crea una carpeta dentro de la carpeta de ImaN para cada producto que agregue.
+- Dentro de esa carpeta agregar tres imágenes por prenda(Identifique cual es la imagen principal de la prenda).
+- Serán 15 prendas cada una con máximo 4 imágenes(Incluida la imagen principal).
+- Cada prenda debe traer la siguiente información:
++ Nombre
++ Marca
++ Equipo
++ Liga
++ Precio
++ Tallas:(Disponibles)
++ Descripcion:(breve)
+
+Nota: 
+
+Juan Ima1 = 1-5
+Diego Ima2 = 6-10
+Samuel Ima3 = 11-15
+
+El formato para nombrar las imágenes 000N-[Nombre]-N.(png, jpg)
+- La imagen principal siempre será N = 1
+- la imagen debe venir sin fondo(Opcional).
+- Crear un archivo ImaN/Data.txt para cada uno de los productos.
